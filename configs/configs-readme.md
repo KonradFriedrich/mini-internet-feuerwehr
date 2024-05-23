@@ -1,0 +1,1 @@
+Hier werden alle gespeicherten Configs abgelegt, welche ihr gesichert im git Repo haben wollt
